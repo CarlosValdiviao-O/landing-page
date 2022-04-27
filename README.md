@@ -1,2 +1,2 @@
-# landing-page
-First landing page project
+# Landing Page
+My first ever landing page with responsive design using flexbox.
